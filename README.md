@@ -1,6 +1,5 @@
 # Message-Broker-Server
-A project which a client will publish a message and server send it to all subscriber.
-
+Developed a message broker for publishing and subscribing messages by establishing a TCP connection between server and client implemented in Python using socket and threading libraries.
 
 
 Server functions:
